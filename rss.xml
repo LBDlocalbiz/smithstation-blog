@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smith's Storage Blog</title>
+    <description>Storage tips, moving guides, and news from Smith's Storage in Smiths Station, AL.</description>
+    <link>https://blog.smithsstationstorage.com/</link>
+    <atom:link href="https://blog.smithsstationstorage.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <lastBuildDate>2026-05-28</lastBuildDate>
+
+    <item>
+      <title>Welcome to the Smith's Storage Blog</title>
+      <description>Your go-to resource for storage tips, moving guides, and facility news from Smith's Storage.</description>
+      <link>https://blog.smithsstationstorage.com/posts/2026-05-28-welcome-to-smiths-storage-blog</link>
+      <guid>https://blog.smithsstationstorage.com/posts/2026-05-28-welcome-to-smiths-storage-blog</guid>
+      <pubDate>2026-05-28</pubDate>
+    </item>
+  </channel>
+</rss>

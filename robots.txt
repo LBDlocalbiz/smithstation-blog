@@ -1,0 +1,11 @@
+# Smith's Storage Blog - robots.txt
+# https://blog.smithsstationstorage.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://blog.smithsstationstorage.com/sitemap.xml
+
+# Disallow template files
+Disallow: /posts/_post-template.html
